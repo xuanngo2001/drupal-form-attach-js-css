@@ -7,7 +7,7 @@ trade-steps:
     theme:
       css/trade-steps-theme.css: {}
   js:
-    js/trade-steps.js: 
+    js/trade-steps.js: {}
     
   # Add core Drupal Ajax library as a dependency for this library.
   dependencies:
